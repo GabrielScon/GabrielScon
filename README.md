@@ -1,7 +1,7 @@
 ### Hello! I'm Gabriel Sposito Conciani!!!
 
-- 👨‍🎓I'm currently learning about Python and Java...
-- 📖I study in the University <a href="https://www.pucpr.br/">PUCPR</a>...
+- 👨‍🎓I'm currently learning about Python and Java.
+- 📖I'm a Computer Science student at the University <a href="https://www.pucpr.br/">PUCPR</a>.
 
 <div>
 <img src="https://media.giphy.com/media/4oMoIbIQrvCjm/giphy.gif" width="500" height="300"/>
@@ -32,7 +32,7 @@
   <img align="center" alt="Gabriel-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
 
-
+##
 
 ### My Contacts:
 
