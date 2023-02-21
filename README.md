@@ -7,13 +7,15 @@
 <img src="https://media.giphy.com/media/4oMoIbIQrvCjm/giphy.gif" width="500" height="300"/>
 </div>
 
+##
+
 <div>
 <a href="https://github.com/GabrielScon">
   <img height="140" src="https://github-readme-stats.vercel.app/api?username=GabrielScon&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielScon&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-
+##
 
 ### Programming languages I use:
 
